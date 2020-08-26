@@ -1,3 +1,2 @@
-libperson.so
 *.o
-.idea/workspace.xml
+*.a
